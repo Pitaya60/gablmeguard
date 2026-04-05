@@ -1,0 +1,17 @@
+[
+  {"date": "2024-11-01T22:30:00", "amount": 15000, "merchant": "1xBet KZ", "mcc": "7995", "is_credit": false},
+  {"date": "2024-11-02T01:15:00", "amount": 20000, "merchant": "Olimp Bet", "mcc": "7995", "is_credit": true},
+  {"date": "2024-11-02T14:00:00", "amount": 5000, "merchant": "Магнум", "mcc": "5411", "is_credit": false},
+  {"date": "2024-11-02T23:45:00", "amount": 30000, "merchant": "Fonbet", "mcc": "7995", "is_credit": false},
+  {"date": "2024-11-03T02:00:00", "amount": 45000, "merchant": "Melbet", "mcc": "7995", "is_credit": true},
+  {"date": "2024-11-03T10:00:00", "amount": 8000, "merchant": "KFC", "mcc": "5812", "is_credit": false},
+  {"date": "2024-11-03T23:30:00", "amount": 25000, "merchant": "1xBet KZ", "mcc": "7995", "is_credit": false},
+  {"date": "2024-11-04T00:45:00", "amount": 35000, "merchant": "Parimatch", "mcc": "7995", "is_credit": true},
+  {"date": "2024-11-04T09:00:00", "amount": 12000, "merchant": "Kaspi Pay", "mcc": "6011", "is_credit": true},
+  {"date": "2024-11-04T09:30:00", "amount": 50000, "merchant": "Olimp Bet", "mcc": "7995", "is_credit": false},
+  {"date": "2024-11-05T14:00:00", "amount": 3000, "merchant": "Sulpak", "mcc": "5065", "is_credit": false},
+  {"date": "2024-11-05T23:00:00", "amount": 40000, "merchant": "1xBet KZ", "mcc": "7995", "is_credit": false},
+  {"date": "2024-11-06T01:00:00", "amount": 60000, "merchant": "Fonbet", "mcc": "7995", "is_credit": true},
+  {"date": "2024-11-06T12:00:00", "amount": 7000, "merchant": "Uber", "mcc": "4121", "is_credit": false},
+  {"date": "2024-11-07T22:00:00", "amount": 75000, "merchant": "Melbet", "mcc": "7995", "is_credit": false}
+]
